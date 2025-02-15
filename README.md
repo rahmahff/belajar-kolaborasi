@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Mendokumentasikan dengan GitHub menjadi lebih mudah Aamiin..
+Belajar GitHub sangat menyenangkan!
