@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Mendokumentasikan dengan GitHub menjadi lebih mudah Aamiin..
+Mendokumentasikan dengan Github jadi lebih mudah loh..
