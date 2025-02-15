@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Asyik sekali belajar di Dicoding!
+Mendokumentasikan dengan Github jadi lebih mudah loh..
